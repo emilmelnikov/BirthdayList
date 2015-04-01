@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday List</string>
+    <string name="add_guest">Add guest</string>
+    <string name="button_add_guest">Add guest</string>
+    <string name="default_color">#FFFFFF</string>
+    <string name="add_guest_name_caption">Name</string>
+    <string name="add_guest_gifts_caption">Gifts</string>
+    <string name="add_guest_color_caption">Color</string>
+    <string name="no_birthday_picked">Choose birthday...</string>
+    <string name="main_guest_list_caption">Guests</string>
+    <string name="main_birthday_picker_caption">Birthday</string>
+</resources>
